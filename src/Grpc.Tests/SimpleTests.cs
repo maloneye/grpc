@@ -7,7 +7,7 @@ namespace Grpc.Tests;
 [TestClass]
 public sealed class SimpleTests
 {
-    [TestMethod("Given an known employee, then the service should correctly return there skills")]
+    [TestMethod("Given an known employee, then the service should correctly return their skills")]
     public async Task T0()
     { 
         // Arrange
